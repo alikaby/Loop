@@ -8,6 +8,7 @@ public class Loopy {
 
             System.out.println("Value i = " + i);
             System.out.println("Величина индекса равна ");
+            System.out.println("Зено");
 
         }
     }
