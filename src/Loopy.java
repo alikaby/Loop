@@ -7,6 +7,7 @@ public class Loopy {
 
 
             System.out.println("Value i = " + i);
+            System.out.println("Zeno");
         }
     }
 
